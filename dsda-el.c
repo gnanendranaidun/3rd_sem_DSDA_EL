@@ -147,16 +147,3 @@ int main()
     
 return 0;  
 }
-/**
- * Your Twitter struct will be instantiated and called as such:
- * Twitter* obj = twitterCreate();
- * twitterPostTweet(obj, userId, tweetId);
- 
- * int* param_2 = twitterGetNewsFeed(obj, userId, retSize);
- 
- * twitterFollow(obj, followerId, followeeId);
- 
- * twitterUnfollow(obj, followerId, followeeId);
- 
- * twitterFree(obj);
-*/
